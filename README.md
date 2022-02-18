@@ -1,2 +1,2 @@
 # edu-go
-Educational repo for Google Go.
+Educational repo for GoLang
